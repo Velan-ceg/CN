@@ -167,14 +167,3 @@ python attack_simulator.py --demo-all
 
 ---
 
-## 🎓 Viva & Computer Networks Code Explanation
-
-If your teacher or examiner (**"Mam"**) asks you to open and explain the Computer Networks code:
-- Open [`CN_EXPLANATION_GUIDE.md`](CN_EXPLANATION_GUIDE.md) in your editor.
-- Or open **Tab 7 ("🎓 Computer Networks Code & Viva Guide")** directly in the running web application!
-- It gives you the exact line-by-line explanation for:
-  - How TCP 3-way handshake is tracked via flags (`SYN`, `ACK`).
-  - How port numbers and protocol fields demultiplex incoming frames.
-  - How ARP spoofing is detected at Layer 2.
-  - How DNS A-records are snooped at Layer 7.
-  - How Z-scores statistically model traffic bursts.
